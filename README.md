@@ -1,7 +1,14 @@
-RenameGoPro
+RENAMEGOPRO
 GoPro MP4 files renamer
 
+RENAME GOPRO FILES 
+HH_CC_NNNN.MP4 -> NNNN_CC + HH_CC_NNNN.MP4
 
+RENAMED FILES ONLY:
+- MP4, LRV, THM
+- 8 FILENAME SYMBOLS
+
+Work as a separate application or through the context menu, which is much more convenient.
 
 ![1](https://github.com/rokkystudio/RenameGoPro/assets/50930415/5757bfa9-183e-43af-8f00-47e783a64161)
 
