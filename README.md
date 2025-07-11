@@ -2,6 +2,8 @@
 
 # RenameGoPro — Переименование файлов GoPro
 
+<img src="files/icon.png" width="16" /> RenameGoPro
+
 ---
 
 ### [⬇️ Скачать RenameGOPro V0.1](files/RenameGoPro_0.1_Setup.exe)
