@@ -1,18 +1,12 @@
 [🇷🇺 Русский](README.md) | [🇬🇧 English](README.en.md)
 
-# RenameGoPro — Переименование файлов GoPro
+# RenameGoPro — ренеймер файлов GoPro
 
-<img src="files/icon.png" width="16" /> RenameGoPro
-
----
-
-### [⬇️ Скачать RenameGOPro V0.1](files/RenameGoPro_0.1_Setup.exe)
-
-![1](https://github.com/rokkystudio/RenameGoPro/assets/50930415/5757bfa9-183e-43af-8f00-47e783a64161)
+<img src="files/app.png" width="16" />  **RenameGoPro**
 
 ---
 
-### 📁 Назначение программы
+## 📁 Назначение программы
 
 - Упорядочивает и сортирует GoPro-файлы в Проводнике Windows.
 - Быстрое переименование в **два клика** через контекстное меню.
@@ -24,10 +18,20 @@
 
 ---
 
-### 📜 Лицензия
-Только для некомерческого использования. Подробнее тут [LICENSE](LICENSE).
+## [⬇️ Скачать RenameGOPro V0.1](files/RenameGoPro_0.1_Setup.exe)
+
+![1](https://github.com/rokkystudio/RenameGoPro/assets/50930415/5757bfa9-183e-43af-8f00-47e783a64161)
 
 ---
 
-![2](https://github.com/rokkystudio/RenameGoPro/assets/50930415/ce1dad87-baac-4fea-8f20-623239521d39)
-![3](https://github.com/rokkystudio/RenameGoPro/assets/50930415/87a72d7b-f50a-4dd3-b177-3b277ae895f8)
+## 📸 Скриншоты
+
+<p align="center">
+  <img src="https://github.com/rokkystudio/RenameGoPro/assets/50930415/ce1dad87-baac-4fea-8f20-623239521d39" width="45%" />
+  <img src="https://github.com/rokkystudio/RenameGoPro/assets/50930415/87a72d7b-f50a-4dd3-b177-3b277ae895f8" width="49%" />
+</p>
+
+---
+
+## 📜 Лицензия
+Только для некомерческого использования. Подробнее тут [LICENSE](LICENSE).
