@@ -1,6 +1,6 @@
 [🇷🇺 Русский](README.md) | [🇬🇧 English](README.en.md)
 
-# RenameGoPro — ренеймер файлов GoPro
+# RenameGoPro — ренеймер MP4 файлов GoPro
 
 <img src="files/app.png" width="16" />  **RenameGoPro**
 
