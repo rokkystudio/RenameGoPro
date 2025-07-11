@@ -2,15 +2,11 @@
 
 # RenameGoPro — GoPro MP4 files renamer
 
----
-
-### [⬇️ Download RenameGOPro V0.1](files/RenameGoPro_0.1_Setup.exe)
-
-![1](https://github.com/rokkystudio/RenameGoPro/assets/50930415/5757bfa9-183e-43af-8f00-47e783a64161)
+<img src="files/app.png" width="16" />  **RenameGoPro**
 
 ---
 
-### 📁 What this tool does
+## 📁 What this tool does
 
 - Helps organize and sort GoPro files in Windows File Explorer.
 - One-click renaming via **right-click context menu**.
@@ -22,10 +18,20 @@
 
 ---
 
-### 📜 License  
-Non-commercial use only. See [LICENSE.en](LICENSE.en) for details.
+## [⬇️ Download RenameGOPro V0.1](files/RenameGoPro_0.1_Setup.exe)
+
+![1](https://github.com/rokkystudio/RenameGoPro/assets/50930415/5757bfa9-183e-43af-8f00-47e783a64161)
 
 ---
 
-![2](https://github.com/rokkystudio/RenameGoPro/assets/50930415/ce1dad87-baac-4fea-8f20-623239521d39)
-![3](https://github.com/rokkystudio/RenameGoPro/assets/50930415/87a72d7b-f50a-4dd3-b177-3b277ae895f8)
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://github.com/rokkystudio/RenameGoPro/assets/50930415/ce1dad87-baac-4fea-8f20-623239521d39" width="45%" />
+  <img src="https://github.com/rokkystudio/RenameGoPro/assets/50930415/87a72d7b-f50a-4dd3-b177-3b277ae895f8" width="49%" />
+</p>
+
+---
+
+### 📜 License  
+Non-commercial use only. See [LICENSE.en](LICENSE.en) for details.
