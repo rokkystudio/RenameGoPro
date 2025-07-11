@@ -4,7 +4,7 @@
 
 ---
 
-### [⬇️ Download RenameGOPro V0.1](https://github.com/rokkystudio/RenameGoPro/raw/main/RenameGoPro_0.1_Setup.exe)
+### [⬇️ Download RenameGOPro V0.1](files/RenameGoPro_0.1_Setup.exe)
 
 ![1](https://github.com/rokkystudio/RenameGoPro/assets/50930415/5757bfa9-183e-43af-8f00-47e783a64161)
 
